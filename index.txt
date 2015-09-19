@@ -1,1 +1,1 @@
-hell rebase-branch
+hell merge-branch
